@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I build practical solutions, learn in public, and 
 
 ## Stats
 <p>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=reda&show_icons=true&theme=transparent" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reda&layout=compact&theme=transparent" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=redasnrs&show_icons=true&theme=transparent" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redasnrs&layout=compact&theme=transparent" />
 </p>
 
 ## Quote

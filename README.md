@@ -19,17 +19,6 @@ Welcome to my GitHub profile! I build practical solutions, learn in public, and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/Reda-Dahmani)
 [![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail)](mailto:redadahmani34@gmail.com)
 
-## Stats
-<p>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=redasnkrs&show_icons=true&theme=transparent" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redasnkrs&layout=compact&theme=transparent" />
-</p>
-
-## Quote
-<p align="center">
-  <img alt="Random quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
 ## How to Reach Me
 - ✉️ Email: redadahmani34@gmail.com
 - 💬 DMs open on LinkedIn

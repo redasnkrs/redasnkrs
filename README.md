@@ -11,13 +11,8 @@ Welcome to my GitHub profile! I build practical solutions, learn in public, and 
 
 ## Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,git,github" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,nodejs,git,github" alt="Tech stack icons" />
 </p>
-
-## Badges & Links
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-1f6feb?style=for-the-badge)](https://github.com/redadev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/Reda-Dahmani)
-[![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail)](mailto:redadahmani34@gmail.com)
 
 ## How to Reach Me
 - ✉️ Email: redadahmani34@gmail.com

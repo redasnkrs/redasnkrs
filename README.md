@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I build practical solutions, learn in public, and 
 
 ## Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,nodejs,git,github" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind,react,nodejs,git,github" alt="Tech stack icons" />
 </p>
 
 ## How to Reach Me
